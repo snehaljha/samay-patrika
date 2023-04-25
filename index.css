@@ -1,0 +1,48 @@
+h2 {
+    text-align: center;
+    margin: 2rem;
+    color: rgb(205, 207, 207);
+}
+
+body {
+    background-color: rgb(39, 33, 80);
+}
+
+.tf {
+    padding: 0.3rem;
+    background-color: black;
+    color:rgb(205, 207, 207);
+    width: 98%;
+}
+
+thead {
+    color:rgb(205, 207, 207);
+}
+
+select {
+    padding: 0.3rem;
+    background-color: black;
+    color: rgb(205, 207, 207);
+    width: 100%;
+}
+
+.delete-row {
+    padding: 0.3rem;
+    background-color: pink;
+    color: red;
+    width: 100%;
+}
+
+table {
+    width: 80%;
+    margin: 0.5rem;
+}
+
+#save-btn {
+    display: block;
+    margin: auto;
+    background-color: rgb(205, 207, 207);
+    color: rgb(39, 33, 80);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
